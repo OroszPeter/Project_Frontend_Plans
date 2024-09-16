@@ -1,0 +1,7 @@
+body{
+    margin: auto;
+}
+
+#check input, p{
+    display: inline;
+}
